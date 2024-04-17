@@ -1,0 +1,16 @@
+.step {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .step-box {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .arrow {
+    font-size: 20px;
+  }
